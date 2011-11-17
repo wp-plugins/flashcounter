@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Contact Formular\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-16 22:52+0100\n"
-"PO-Revision-Date: 2011-11-16 22:52+0100\n"
+"POT-Creation-Date: 2011-11-17 23:48+0100\n"
+"PO-Revision-Date: 2011-11-17 23:48+0100\n"
 "Last-Translator: Ninos Ego <me@ninosego.de>\n"
 "Language-Team: Ninos Ego\n"
 "MIME-Version: 1.0\n"
@@ -18,23 +18,32 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: ..\n"
 
-#: ../flashcounter.php:15
+#: ../lib/admin.php:5
+#: ../lib/admin.php:29
 msgid "FlashCounter"
 msgstr "FlashCounter"
 
-#: ../flashcounter.php:28
-msgid "Settings were updated."
-msgstr "Einstellungen wurden aktualisiert."
+#: ../lib/admin.php:24
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
 
-#: ../flashcounter.php:32
-msgid "Please add here the User of your FlashCounter Site."
-msgstr "Bitte füge hier den Benutzer deiner FlashCounter Seite hinzu."
-
-#: ../flashcounter.php:35
+#: ../lib/admin.php:34
 msgid "FlashCounter User"
 msgstr "FlashCounter Benutzer"
 
-#: ../flashcounter.php:36
-msgid "Update"
-msgstr "Aktualisieren"
+#: ../lib/admin.php:37
+msgid "Please add here the User of your FlashCounter Site."
+msgstr "Bitte füge hier den Benutzer deiner FlashCounter Seite hinzu."
+
+#: ../lib/admin.php:38
+msgid "You don't have a FlashCounter Account?"
+msgstr "Du hast noch keinen FlashCounter Account?"
+
+#: ../lib/admin.php:38
+msgid "Just create one!"
+msgstr "Erstelle einfach Einen!"
+
+#: ../lib/admin.php:43
+msgid "Save Changes"
+msgstr "Änderungen übernehmen"
 
