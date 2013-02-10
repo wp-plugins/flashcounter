@@ -3,7 +3,7 @@ Contributors: Ninos Ego
 Tags: flashcounter, statistic, analytics, counter
  
 Requires at least: 3.2.1
-Tested up to: 3.3
+Tested up to: 3.5.1
 Stable tag: 1.1.0
 
 Includes the FlashCounter (http://fc.webmasterpro.de) to your page. In the Adminpanel you can set the User of the FlashCounter for your Page.
