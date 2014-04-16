@@ -3,7 +3,7 @@
 Plugin Name: FlashCounter
 Description: Includes the FlashCounter to your Page.
 Author: Ninos Ego
-Version: 1.1.4
+Version: 1.1.5
 Author URI: http://ninosego.de/
 */
 
