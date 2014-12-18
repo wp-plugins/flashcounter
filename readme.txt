@@ -3,8 +3,8 @@ Contributors: Ninos Ego
 Tags: flashcounter, statistic, analytics, counter
  
 Requires at least: 3.2.1
-Tested up to: 4.0
-Stable tag: 1.1.6
+Tested up to: 4.1
+Stable tag: 1.1.7
 
 Includes the FlashCounter (http://fc.webmasterpro.de) to your page. In the Adminpanel you can set the User of the FlashCounter for your Page.
 
@@ -42,6 +42,9 @@ Using the Wordpress Admin page for installing
 
 
 == Changelog ==
+
+= 1.1.7 =
+Compatible with Wordpress 4.1
 
 = 1.1.6 =
 Compatible with Wordpress 4.0
